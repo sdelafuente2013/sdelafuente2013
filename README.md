@@ -10,10 +10,6 @@
 <h3 align="center">Dev Fullstack & technology enthusiast en TSOFT | ⚡ Mentor IT //Ruby on Rails🍃☕️, HTML & CSS, Javascript💫, SQL🍃, Docker🐳, TDD//  //👨🏻‍🏫Docente #Javascript & SeleccionIT </h3>
 
 <br>
-<div id="img" style="display: flex; justify-content: center">
-<img id="borderDemo" src="https://i.ibb.co/mJns8vg/Perfil-2mb.png" alt="Santiago de la Fuente" border="0" height="150" width="150" style="border: 8px double rgba(28,110,164,0.34);"/>
-</div>
-
 <br>
 
 
