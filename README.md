@@ -1,31 +1,4 @@
-<p align="left"> <a href="https://www.linkedin.com/in/sdelafuente2013/" target="blank">
 
-<img src="https://img.shields.io/badge/SANTIAGO%20DE%20LA%20FUENTE-%3C%20D%20E%20V%20E%20L%20O%20P%20E%20R%3E-brightgreen" alt="santiago" /></a> 
-<br>
-<br>
-<br>
-</p> 
-
-<h1 align="center">Hi 👋, I'm Santiago de la Fuente</h1>
-<h3 align="center">Dev Fullstack & technology enthusiast en TSOFT | ⚡ Mentor IT //Ruby on Rails🍃☕️, HTML & CSS, Javascript💫, SQL🍃, Docker🐳, TDD//  //👨🏻‍🏫Docente #Javascript & SeleccionIT </h3>
-
-<br>
-<br>
-
-
-
-<a href="https://linkedin.com/in/maurisandev"><h3>📞Connect with me:</h3></a>
---
-- 🔭 I’m currently working on [TSOFT | Software Company](https://www.tsoftglobal.com/)
-
-- 📫 How to reach me **santiagodelafuente2013@gmail.com**
-<br>
-<br>
-
-
-<p align="left">
-<a color="blue" href="https://stackoverflow.com/users/17998378/sdelafuente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverFlow" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sdelafuente2013/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 
 ---
 
