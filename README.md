@@ -102,9 +102,15 @@ end
 </p>
 
 ---
+<div align="center">
+    
 ![Anurag's GitHub stats"](https://github-readme-stats.vercel.app/api?username=sdelafuente2013&show_icons=true&theme=tokyonight)
+    
+   <br>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdelafuente2013&layout=compact)](https://github.com/sdelafuente2013/github-readme-stats)
 
+</div>
 
 *NOTA: Los idiomas principales no indican mi nivel de habilidad o algo así, es una métrica de github de qué idiomas tengo más código en github, es una nueva característica de github-readme-stats*
 
