@@ -13,7 +13,7 @@
 class User < ActiveRecord::Base
     def contact
       %w[ https://twitter.com/sdelafuente2013
-          https://www.linkedin.com/in/sdelafuente2013/
+          https://www.linkedin.com/in/sdelafuente2013
           https://www.facebook.com/sdelafuente2013
           santiagodelafuente2013@gmail.com
        ]
