@@ -1,117 +1,93 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi,%20I'm%20Santiago%20de%20la%20Fuente&fontSize=50&fontColor=ffffff)
-
+  <a href="https://github.com/sdelafuente2013">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20Santiago!&height=180&fontSize=50&fontColor=ffffff" />
+  </a>
 </div>
 
-<h3 align="center">I am a Fullstack Ruby on Rails Developer </h3>
-
-
-<img align='right' src="https://camo.githubusercontent.com/ef4eb77319c886771d511eece7ad68547d60e1d9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" width="300" height="208px">
-
-```ruby
-class User < ActiveRecord::Base
-    def contact
-      %w[ https://twitter.com/sdelafuente2013
-          https://www.linkedin.com/in/sdelafuente2013
-          https://www.facebook.com/sdelafuente2013
-          santiagodelafuente2013@gmail.com
-       ]
-    end
-end
-```
-
-[![GitHub sdelafuente2013](https://img.shields.io/github/followers/sdelafuente2013?label=follow&style=social)](https://github.com/sdelafuente2013)
-[![Linkedin: sdelafuente2013](https://img.shields.io/badge/-sdelafuente2013-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdelafuente2013/)](https://www.linkedin.com/in/sdelafuente2013/)
-[![](https://img.shields.io/badge/Gmail-santiagodelafuente2013@gmail.com-red)](mailto:santiagodelafuente2013@gmail.com)
-
----
-
-<h3 align="left">Languages and technologies:</h3>
-
-<p align="left"> 
-
-<a href="https://www.ruby-lang.org/en/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-</a> 
-
-<a href="https://rubyonrails.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="40"/> 
-</a> 
-
-<a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="40"/> 
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="postgresql" width="55" height="40"/> 
-</a> 
-
-<a href="https://stimulus.hotwired.dev/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/stimulus.svg" alt="stimulusJS" width="55" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> 
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-
-<a href="https://sass-lang.com/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40px" height="40px"/>
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40px" height="40px"/>
-</a>
-</p>
-
-<br>
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-
-<a href="https://www.jetbrains.com/ruby/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/rubymine.svg" alt="ruby-mine" width="40px" height="40px"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="40px" height="40px"/>
-</a>
-
-<a href="https://www.atlassian.com/es/software/jira" target="_blank">
-<img src="https://cdn.svgporn.com/logos/jira.svg" alt="jira" width="40px" height="40px" />  
-</a>
-    
-<a href="https://heroku.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-</a>
-
-<a href="https://es.stackoverflow.com/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="stackoverflow" width="40px" height="40px"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank"> 
-    <img src="https://cdn.svgporn.com/logos/postman.svg" alt="postman" width="120" height="40"/> 
-</a>
-</p>
-
----
 <div align="center">
-    
-![Anurag's GitHub stats"](https://github-readme-stats.vercel.app/api?username=sdelafuente2013&show_icons=true&theme=tokyonight)
-    
-   <br>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdelafuente2013&layout=compact)](https://github.com/sdelafuente2013/github-readme-stats)
-
+  <a href="https://www.linkedin.com/in/sdelafuente2013/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/sdelafuente2013" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:santiagodelafuente2013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
-*NOTA: Los idiomas principales no indican mi nivel de habilidad o algo así, es una métrica de github de qué idiomas tengo más código en github, es una nueva característica de github-readme-stats*
+---
 
+### 🤔 About Me
 
+I'm a passionate Fullstack Developer from Argentina 🇦🇷 with a love for crafting elegant and efficient solutions in Ruby on Rails. I thrive on turning complex problems into beautiful, scalable web applications. My journey in tech is driven by a relentless curiosity and a desire to build things that make a difference.
+
+*   🔭 I’m currently working on a freelance project using Rails 7 and Hotwire.
+*   🌱 I’m always learning, right now focusing on advanced JavaScript and React.
+*   👯 I’m looking to collaborate on open-source projects that help developers.
+*   💬 Ask me about Ruby, Rails, TDD, or anything related to web development!
+*   ⚡ Fun fact: I believe the best code is written while listening to cumbia.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here's a snapshot of the tools and technologies I work with regularly.
+
+<table width="100%">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" />
+      <br><strong>Ruby</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="50" height="40" alt="Rails" />
+      <br><strong>Ruby on Rails</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.svgporn.com/logos/mysql.svg" width="40" height="40" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.svgporn.com/logos/sass.svg" width="40" height="40" alt="Sass" />
+      <br><strong>Sass</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="40" height="40" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="180">
+      <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="40" height="40" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sdelafuente2013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sdelafuente2013's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdelafuente2013&layout=compact&theme=tokyonight&hide_border=true" alt="sdelafuente2013's top languages" />
+</div>
+
+*Note: Top languages is a GitHub metric based on public repository code and doesn't necessarily reflect my skill level.*
+
+---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</div>
